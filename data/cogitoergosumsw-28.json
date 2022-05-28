@@ -1,0 +1,9 @@
+{
+  "contest": 126,
+  "handle": "cogitoergosumsw",
+  "address": "0x63E76c1b72B1924FAC337b349eaC1D24b9c558cf",
+  "risk": "2",
+  "title": "Lost of Queued Rewards due to Integer Overflow when User Donates the `_rewardToken`",
+  "issueId": 28,
+  "issueUrl": "https://github.com/code-423n4/2022-05-vetoken-findings/issues/28"
+}
