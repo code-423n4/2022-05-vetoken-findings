@@ -1,0 +1,9 @@
+{
+  "contest": 126,
+  "handle": "cogitoergosumsw",
+  "address": "0x63E76c1b72B1924FAC337b349eaC1D24b9c558cf",
+  "risk": "2",
+  "title": "Highly Unsafe Pattern of Minting the Additional Reward Tokens at `VeAssetDepositor.sol`",
+  "issueId": 29,
+  "issueUrl": "https://github.com/code-423n4/2022-05-vetoken-findings/issues/29"
+}
