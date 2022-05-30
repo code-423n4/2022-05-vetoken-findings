@@ -1,0 +1,9 @@
+{
+  "contest": 126,
+  "handle": "AlleyCat",
+  "address": "0x9DfcC853d908eF27Ec32826c96306841218e88f4",
+  "risk": "2",
+  "title": "DoS with Failed Call in VE3DRewardPool.sol",
+  "issueId": 45,
+  "issueUrl": "https://github.com/code-423n4/2022-05-vetoken-findings/issues/45"
+}
