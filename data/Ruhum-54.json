@@ -1,0 +1,9 @@
+{
+  "contest": 126,
+  "handle": "Ruhum",
+  "address": "0x1708bdfa333F81993A1eDcFEc6821a3Ec563eA06",
+  "risk": "2",
+  "title": "VE3DRewardPool's extraRewards array has no cap which can result in a DOS",
+  "issueId": 54,
+  "issueUrl": "https://github.com/code-423n4/2022-05-vetoken-findings/issues/54"
+}
