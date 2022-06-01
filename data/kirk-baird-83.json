@@ -1,0 +1,9 @@
+{
+  "contest": 126,
+  "handle": "kirk-baird",
+  "address": "0xC07AB0222713175389FD105Bb85FA82d8510d13E",
+  "risk": "2",
+  "title": "`Booster.addPool()` is unrestricted in the number of pools that may be added to the array potentially causing certain functions to become stuck",
+  "issueId": 83,
+  "issueUrl": "https://github.com/code-423n4/2022-05-vetoken-findings/issues/83"
+}
