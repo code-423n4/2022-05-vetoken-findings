@@ -1,0 +1,9 @@
+{
+  "contest": 126,
+  "handle": "SecureZeroX",
+  "address": "0x5847c3294DB1c9D66f5008156829CE0911f0eD58",
+  "risk": "3",
+  "title": "`deposit` function of `VeAssetDepositor.sol` will be failed if `stakeAddress` is set.",
+  "issueId": 94,
+  "issueUrl": "https://github.com/code-423n4/2022-05-vetoken-findings/issues/94"
+}
