@@ -1,0 +1,9 @@
+{
+  "contest": 126,
+  "handle": "SecureZeroX",
+  "address": "0x5847c3294DB1c9D66f5008156829CE0911f0eD58",
+  "risk": "2",
+  "title": "`setRewardContracts` of `Booster.sol` could not set `stakerRewards` and `stakerLockRewards`",
+  "issueId": 100,
+  "issueUrl": "https://github.com/code-423n4/2022-05-vetoken-findings/issues/100"
+}
