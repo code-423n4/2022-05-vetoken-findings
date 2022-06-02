@@ -1,0 +1,9 @@
+{
+  "contest": 126,
+  "handle": "gzeon",
+  "address": "0x945D28dF9779795BDab5BC6FDD9f36c0Ef1F7190",
+  "risk": "3",
+  "title": "Revert if too many rewardTokens in VE3DLocker",
+  "issueId": 242,
+  "issueUrl": "https://github.com/code-423n4/2022-05-vetoken-findings/issues/242"
+}
