@@ -1,0 +1,9 @@
+{
+  "contest": 126,
+  "handle": "GimelSec",
+  "address": "0x8595B7e8F4d3287248DB45AcA4Ba4EaCFe4Ab78e",
+  "risk": "2",
+  "title": "Functions will be frozen if setXXX to `address(0)`",
+  "issueId": 193,
+  "issueUrl": "https://github.com/code-423n4/2022-05-vetoken-findings/issues/193"
+}
