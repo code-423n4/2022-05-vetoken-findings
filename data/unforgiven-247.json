@@ -1,0 +1,9 @@
+{
+  "contest": 126,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "2",
+  "title": "setOwner() function in VoterProxy allow new owner to be set as 0x0, so if owner call it by wrong value the contract will be in broken state and funds would be lost",
+  "issueId": 247,
+  "issueUrl": "https://github.com/code-423n4/2022-05-vetoken-findings/issues/247"
+}
