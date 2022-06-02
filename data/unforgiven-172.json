@@ -1,0 +1,9 @@
+{
+  "contest": 126,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "3",
+  "title": "deposited staking tokens can be lost if rewards token info added by mistake in addReward() in VE3DRewardPool and there is no checking to ensure this would not happen (ve3Token for one reward was equal to stacking token)",
+  "issueId": 172,
+  "issueUrl": "https://github.com/code-423n4/2022-05-vetoken-findings/issues/172"
+}
