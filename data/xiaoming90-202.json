@@ -1,0 +1,9 @@
+{
+  "contest": 126,
+  "handle": "xiaoming90",
+  "address": "0x536fbBaE179fd77FAe3E29b510f7B605bf45BC8f",
+  "risk": "3",
+  "title": "Unable To Get Rewards If Admin Withdraws $VE3D tokens From `VeTokenMinter` Contract",
+  "issueId": 202,
+  "issueUrl": "https://github.com/code-423n4/2022-05-vetoken-findings/issues/202"
+}
