@@ -1,0 +1,9 @@
+{
+  "contest": 126,
+  "handle": "gzeon",
+  "address": "0x945D28dF9779795BDab5BC6FDD9f36c0Ef1F7190",
+  "risk": "2",
+  "title": "Unable to shutdown if there are too many pool",
+  "issueId": 238,
+  "issueUrl": "https://github.com/code-423n4/2022-05-vetoken-findings/issues/238"
+}
