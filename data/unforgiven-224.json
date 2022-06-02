@@ -1,0 +1,9 @@
+{
+  "contest": 126,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "3",
+  "title": "In function addPool() of Booster contract don't check that added lpToken is not duplicate and if by mistake or intentional owner creates two pool for one lptoken (with PoolManager) then most of the logics will be broken and users would lose their funds.",
+  "issueId": 224,
+  "issueUrl": "https://github.com/code-423n4/2022-05-vetoken-findings/issues/224"
+}
