@@ -1,0 +1,9 @@
+{
+  "contest": 126,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "2",
+  "title": "setFeeManager() in VeAssetDepositor dont' check that new feeManager is not 0x0 and if feeManager set new address by mistake then can't be recoverable",
+  "issueId": 226,
+  "issueUrl": "https://github.com/code-423n4/2022-05-vetoken-findings/issues/226"
+}
