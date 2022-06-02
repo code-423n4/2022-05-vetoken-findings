@@ -1,0 +1,9 @@
+{
+  "contest": 126,
+  "handle": "sseefried",
+  "address": "0x6edBF2A989394baBD9c7E1FD1e3dD8499B6D485B",
+  "risk": "3",
+  "title": "Not updating `totalWeight` when operator is removed in `VeTokenMinter`",
+  "issueId": 120,
+  "issueUrl": "https://github.com/code-423n4/2022-05-vetoken-findings/issues/120"
+}
