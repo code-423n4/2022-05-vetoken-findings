@@ -1,0 +1,9 @@
+{
+  "contest": 126,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "2",
+  "title": "lockVeAsset() in VeAssetDepositor don't follow the check-effect-interact pattern and it's vulnerable to reentrancy attack",
+  "issueId": 231,
+  "issueUrl": "https://github.com/code-423n4/2022-05-vetoken-findings/issues/231"
+}
