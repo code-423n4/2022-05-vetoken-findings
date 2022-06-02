@@ -1,0 +1,9 @@
+{
+  "contest": 126,
+  "handle": "IllIllI",
+  "address": "0xCC6B0a35481EA40b60780B7c0294c6c29061038f",
+  "risk": "2",
+  "title": "Admins can lock funds forever",
+  "issueId": 189,
+  "issueUrl": "https://github.com/code-423n4/2022-05-vetoken-findings/issues/189"
+}
