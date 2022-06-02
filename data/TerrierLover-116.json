@@ -1,0 +1,9 @@
+{
+  "contest": 126,
+  "handle": "TerrierLover",
+  "address": "0xc9535b697E0B430798443c6CA5A8Be257aD368b0",
+  "risk": "2",
+  "title": "underflow can happen in ``for`` loop at several functions",
+  "issueId": 116,
+  "issueUrl": "https://github.com/code-423n4/2022-05-vetoken-findings/issues/116"
+}
