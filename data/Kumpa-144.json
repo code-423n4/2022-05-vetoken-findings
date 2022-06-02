@@ -1,0 +1,9 @@
+{
+  "contest": 126,
+  "handle": "Kumpa",
+  "address": "0x9813Bb4f6AC2993d67D293ce5eC915661Eb539D2",
+  "risk": "2",
+  "title": "Incorrect pattern of ```safeTransferFrom``` in ```deposit``` could prevent ```_stakeAddress``` from staking the rewards",
+  "issueId": 144,
+  "issueUrl": "https://github.com/code-423n4/2022-05-vetoken-findings/issues/144"
+}
