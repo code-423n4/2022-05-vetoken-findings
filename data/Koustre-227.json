@@ -1,0 +1,9 @@
+{
+  "contest": 126,
+  "handle": "Koustre",
+  "address": "0xa360E38cdf57e092218E7A5f4Eb73032eE74A8bD",
+  "risk": "3",
+  "title": "UpdateReward Modifier is brickable",
+  "issueId": 227,
+  "issueUrl": "https://github.com/code-423n4/2022-05-vetoken-findings/issues/227"
+}
