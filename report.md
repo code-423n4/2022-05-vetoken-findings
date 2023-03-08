@@ -1,3 +1,11 @@
+---
+sponsor: "veToken Finance"
+slug: "2022-05-vetoken"
+date: "2022-10-25"
+title: "veToken Finance contest"
+findings: "https://github.com/code-423n4/2022-05-vetoken-findings/issues"
+contest: 126
+---
 
 # Overview
 
